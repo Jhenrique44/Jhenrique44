@@ -1,6 +1,7 @@
 ## Oiii! Eu sou o João Henrique 👋
 
-- 🌱 I’m currently learning ReactJs;
+- 🌱 I’m currently learning ReactJs <img align="center" alt="Johen-ReactJs" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+;
 - 📫 How to reach me: Jo-henriquefreitas@hotmail.com
  
  <div>
