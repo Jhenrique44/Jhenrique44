@@ -1,8 +1,9 @@
 ## Hiii! I'm João Henrique 🛸
 
 - 📚 I'm computer engineering student at FACENS.
+- 🤵🏽 I'm a Front-End developer at Huawei <img align="center" alt="Huawei-alt" heigth="35" width="45" src="http://logok.org/wp-content/uploads/2014/06/Huawei-logo-880x660.png"> 
 - 🌱 I’m currently learning VueJs <img align="center" alt="Johen-VueJs" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-;
+
 - 📫 How to reach me: Jo-henriquefreitas@hotmail.com
  ##
 
@@ -35,6 +36,7 @@
   <a href="https://app.rocketseat.com.br/me/joao-henrique-05257" target="_blank"><img src="https://avatars.githubusercontent.com/u/28929274?s=30&v=4" target="_blank"></a> 
 <!--   <a href="https://web.digitalinnovation.one/users/jo-henrique8?tab=achievements" target="_blank"><img  src="https://hermes.digitalinnovation.one/site/images/logo.png" widht:"50" target="_blank"> -->
 <!--   </a>  -->
+ <a href="https://open.spotify.com/user/12155987445?si=04eb4ba2fd1e46c1" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
   
  ![Snake animation](https://github.com/Jhenrique44/Jhenrique44/blob/output/github-contribution-grid-snake.svg)
 
