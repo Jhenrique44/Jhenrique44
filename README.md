@@ -2,7 +2,7 @@
 
 - 📚 I'm computer engineering student at FACENS.
 - 🤵🏽 I'm a Front-End developer at Huawei <img align="center" alt="Huawei-alt" heigth="35" width="45" src="http://logok.org/wp-content/uploads/2014/06/Huawei-logo-880x660.png"> 
-- 🌱 I’m currently learning VueJs <img align="center" alt="Johen-VueJs" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+- 🌱 I work with VueJs <img align="center" alt="Johen-VueJs" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> and i'm currently learning ReactJs <img align="center" alt="Johen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 - 🎵 I'm passionate about music, so here's my Spotify </br>
 - <a href="https://open.spotify.com/user/12155987445?si=04eb4ba2fd1e46c1" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a> 
 
