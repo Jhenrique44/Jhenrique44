@@ -6,7 +6,7 @@
 - 🎵 I'm passionate about music, so here's my Spotify </br>
 - <a href="https://open.spotify.com/user/12155987445?si=04eb4ba2fd1e46c1" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a> 
 
-- 📫 How to reach me: Jo-henriquefreitas@hotmail.com
+- 📫 How to reach me: jo-henrique8@hotmail.com
 
  ##
 
