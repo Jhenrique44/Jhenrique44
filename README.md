@@ -2,12 +2,15 @@
 
 - 📚 I'm computer engineering student at FACENS.
 - 🤵🏽 I'm a Front-End developer at Huawei <img align="center" alt="Huawei-alt" heigth="35" width="45" src="http://logok.org/wp-content/uploads/2014/06/Huawei-logo-880x660.png"> 
-- 🌱 I work with VueJs <img align="center" alt="Johen-VueJs" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> and i'm currently learning ReactJs <img align="center" alt="Johen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+- 🌱 I currently work with VueJs <img align="center" alt="Johen-VueJs" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> 
 - 🎵 I'm passionate about music, so here's my Spotify </br>
 - <a href="https://open.spotify.com/user/12155987445?si=04eb4ba2fd1e46c1" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a> 
 
 - 📫 How to reach me: jo-henrique8@hotmail.com
-
+ 
+ <a href = "mailto:Jo-henriquefreitas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaohenriquefq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+  
  ##
 
 
@@ -34,9 +37,7 @@
  ##
 
 <div>
-  <a href = "mailto:Jo-henriquefreitas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"    target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaohenriquefq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
-  <a href="https://app.rocketseat.com.br/me/joao-henrique-05257" target="_blank"><img src="https://avatars.githubusercontent.com/u/28929274?s=30&v=4" target="_blank"></a> 
+  
 <!--   <a href="https://web.digitalinnovation.one/users/jo-henrique8?tab=achievements" target="_blank"><img  src="https://hermes.digitalinnovation.one/site/images/logo.png" widht:"50" target="_blank"> -->
 <!--   </a>  -->
  
