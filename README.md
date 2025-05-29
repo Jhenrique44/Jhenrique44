@@ -1,4 +1,4 @@
-## Hiii! I'm João Henrique 🛸
+## Hi! I'm João Henrique 🛸
 
 - 📚 I'm computer engineering.
 - 🤵🏽 I'm a Software developer at Huawei.
